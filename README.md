@@ -5,7 +5,7 @@
 
 
  # Features
- - Login/SignUp
+ - Login/SignUp   - more fields then use a good library [Formik]
      - Sign Up/Sign In form - redirect to Browse Page
  - Browse  (After Authentication)
    - Header
